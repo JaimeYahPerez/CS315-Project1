@@ -2,6 +2,7 @@
 ## Student Information
 Name: Jaime Yah-Perez 
 Student ID: 008856387
+git: https://github.com/JaimeYahPerez/CS315-Project1
 
 ## Collaboration and Resources
 included libraries were done so out of expectation and assumption based on requirements and previous experience.
